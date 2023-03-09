@@ -1,3 +1,12 @@
+This is my first EDA Capstone project on Almabetter's Python module on Hotel Booking Dataset.
+
+What did you know about your dataset?
+
+1. The dataset contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, number of available parking spaces etc.
+2. This data has 119390 Rows and 32 Columns.
+3. This dataframe has 488 null values in "country" column, 16340 null values in "agent" column and 112593 null values in company column.
+4. Null values in "agent" columns predicts that bookings were done directly instead through any agent.
+
 PROBLEM OVERVIEW
 
 1. The hotel industry is a highly competitive and dynamic environment, where the demand for rooms is constantly changing based on a variety of factors, such as location, seasonality, events, and economic conditions. Hotels need to understand these factors to effectively manage their room inventory and pricing, and maximize their revenue.
