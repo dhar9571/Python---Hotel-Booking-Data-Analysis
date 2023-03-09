@@ -10,3 +10,16 @@ Business Objective?
 1. Discover important factors that govern the bookings.
 2. Causes of booking cancellations across various aspects.
 3. Suitable time to book hotel.
+
+
+What do you suggest the client to achieve Business Objective ?
+1. Greater the lead time, higher chances of cancellation. Therefore, the cancellation policy should be altered accordingly so that cancellation rate can be reduced.
+2. No deposit type has the most cancellations. Therefore, changes in the no deposit type method are crucial so that cancellations can be reduced.
+3. Most of the customers are transient types from European countries with offline/online TA segment. Therefore, these customers should be provided with more perks/offers 4. if booking through offline/online TA, so the bookings can be increased.
+5. June to August are the peak months in which bookings are higher even though the prices are higher during this period. Therefore, if prices are reduced for both the hotels, more bookings can be made by the customers.
+
+
+Conclusion
+1. A minimum amount should be charged for long lead time to reduce the chances of cancellations.
+2. There should be a fixed amount to be charged instead of no deposit to reduce to cancellations.
+3. To improve the number of bookings, transient customers from European regions who come in peak season through offline/online TA, should be provided with extra benefits/offers/perks in order to improve number of bookings.
