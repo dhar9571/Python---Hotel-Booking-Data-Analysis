@@ -1,4 +1,4 @@
-This is my first EDA Capstone project on Almabetter's Python module on Hotel Booking Dataset.
+This is my EDA Capstone project on Almabetter's Python module on Hotel Booking Dataset.
 
 What did you know about your dataset?
 
